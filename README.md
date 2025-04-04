@@ -1,4 +1,6 @@
-### 1. Problem Statement and ER Diagram
+### REAL ESTATE DATABASE
+
+## 1. Problem Statement and ER Diagram
 
 This project models a real estate listing and sales system, allowing agents to manage property listings, transactions, and client information.
 
