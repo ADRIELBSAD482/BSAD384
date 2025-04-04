@@ -26,7 +26,7 @@ The following relational schema was derived from the ER model:
 
 ---
 
-## Sample Queries for Milestone 3
+## Sample Queries
 
 This section outlines example queries and their purposes, based on the data model and queries from **Milestone 3**. The corresponding SQL queries are saved as `milestone_3_queries.sql`.
 
