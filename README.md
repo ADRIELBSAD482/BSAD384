@@ -2,7 +2,7 @@
 
 This project models a real estate listing and sales system, allowing agents to manage property listings, transactions, and client information.
 
-**ER Diagrams**  
+**Entity Relationship Model**  
 Because the full diagram did not fit in one image, it's split into two parts:
 - ![ER Diagram A](./diagrams/ERModelA.png)
 - ![ER Diagram B](./diagrams/ERModelB.png)
