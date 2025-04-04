@@ -19,8 +19,8 @@ The following relational schema was derived from the ER model:
 
 ### 3. Create and Populate Scripts
 
-- [`Create.sql`](./Create.sql): Contains the SQL DDL statements to create the tables.
-- [`Populate.sql`](./Populate.sql): Populates the database with sample data.
+- [`Create.sql`](./create.sql): Contains the SQL DDL statements to create the tables.
+- [`Populate.sql`](./populate.sql): Populates the database with sample data.
 
 ---
 
