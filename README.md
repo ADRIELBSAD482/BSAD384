@@ -21,8 +21,8 @@ The following relational schema was derived from the ER model:
 
 ## Source Code
 
-- [`create.sql`](./create.sql): Contains the SQL DDL statements to create the tables.
-- [`populate.sql`](./populate.sql): Populates the database with sample data.
+- [`Create.sql`](./create.sql): Contains the SQL DDL statements to create the tables.
+- [`Populate.sql`](./populate.sql): Populates the database with sample data.
 
 ---
 
