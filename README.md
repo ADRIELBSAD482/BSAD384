@@ -104,5 +104,3 @@ GROUP BY ag.FirstName, ag.LastName;
 
 ---
 
-> ✅ All queries listed above are part of the final `milestone_3_queries.sql` file and reflect the schema implemented in the x2022ehm database for BSAD 384.
-
