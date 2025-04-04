@@ -1,17 +1,17 @@
 # REAL ESTATE DATABASE
 
-### Problem Statement and ER Diagram
+## Problem Statement and ER Diagram
 
 This project models a real estate listing and sales system, allowing agents to manage property listings, transactions, and client information.
 
-### Entity Relationship Model 
+## Entity Relationship Model 
 Because the full diagram did not fit in one image, it's split into two parts:
 - ![ER Diagram A](./diagrams/ERModelA.png)
 - ![ER Diagram B](./diagrams/ERModelB.png)
 
 ---
 
-### Relational Model
+## Relational Model
 
 The following relational schema was derived from the ER model:
 
@@ -19,14 +19,14 @@ The following relational schema was derived from the ER model:
 
 ---
 
-### Source Code
+## Source Code
 
 - [`Create.sql`](./create.sql): Contains the SQL DDL statements to create the tables.
 - [`Populate.sql`](./populate.sql): Populates the database with sample data.
 
 ---
 
-### Sample Queries for Milestone 3
+## Sample Queries for Milestone 3
 
 This section outlines example queries and their purposes, based on the data model and queries from **Milestone 3**. The corresponding SQL queries are saved as `milestone_3_queries.sql`.
 
